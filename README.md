@@ -2,7 +2,7 @@
 
 I'm [Lukáš Kovář](https://programovaciweb.tk).
 
-I am a 19 years old student of IT 💻.
+I am a 20 years old student of IT 💻.
 I started learning programming 👨‍💻 and web development 5 years ago. I had a school project with my friends under team name Louťáci http://loutiot.cz/.
 
 Today I am primarily focused on programming in JavaScript and Node.js and sometimes helping people with their PHP and WordPress. I know React and some Vue.js.
