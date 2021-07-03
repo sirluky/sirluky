@@ -6,7 +6,7 @@ I am a 20 years old student of IT 💻.
 I started learning programming 👨‍💻 and web development 5 years ago.
 
 My primary focus is programming in JavaScript, Node.js and sometimes helping people with their PHP and WordPress. Most of the apps I wrote is written in React.
-Here is my example game “Lodě” (sea battle) https://lode.netlify.app/, which I have build in 2019 with the use of **React**, **Redux** and **websockets** server runs **Node.js**. 
+Here is my example game “Lodě” (sea battle) https://lode.lukaskovar.com/, which I have build in 2019 with the use of **React**, **Redux** and **websockets** server runs **Node.js**. 
 
 I have project with my friends under team name Louťáci http://loutiot.cz/.
 
