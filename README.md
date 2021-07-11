@@ -17,7 +17,7 @@ You can decide what should I do next 😉.
 
 ## 🛠️ Tech stack
 - Mobile: React Native
-- Web: React, Next.js, Hugo
+- Web: React, Next.js, Svelte
 - Backend: Node.js
 - Databases: Mysql, Postgres
 - Testing: Cypress (E2E), Jest (Unit)
