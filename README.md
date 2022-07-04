@@ -10,7 +10,7 @@ Here is my example game “Lodě” (sea battle) https://lode.lukaskovar.com/, w
 
 I have project with my friend under team name Louťáci http://loutiot.cz/.
 
-I am working at [Tangle.cz](https://tangle.cz) to make lights interactive and easily controllable.
+I am working at [Spectoda](https://spectoda.com) to make lights interactive and easily controllable.
 Let's see what we build.
 
 [![SirLuky github stats](https://github-readme-stats.vercel.app/api?username=sirluky&count_private=true&show_icons=true)](https://github.com/sirluky)
