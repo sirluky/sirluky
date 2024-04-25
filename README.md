@@ -7,8 +7,6 @@ I do programming and web development 👨‍💻 and web development for over 5 
 
 My primary focus is programming in JavaScript (TS), Node.js and sometimes helping people with their PHP and WordPress. Most of the apps I wrote is written in React.
 
-I have project with my friend under team name Louťáci http://loutiot.cz/.
-
 I am working at [Spectoda](https://spectoda.com) to make lights interactive and easily controllable.
 Let's see what we build.
 
