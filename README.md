@@ -2,8 +2,8 @@
 
 I'm [Lukáš Kovář](https://lukaskovar.com).
 
-I am a 22 years old "student" of IT 💻.
-I do programming and web development 👨‍💻 and web development for over 5 years.
+I am a 23 years old IT Guy 💻.
+I do programming and web development 👨‍💻 and web app development 👨‍💻👨‍💻 for over 5 years.
 
 My primary focus is programming in JavaScript (TS), Node.js and sometimes helping people with their PHP and WordPress. Most of the apps I wrote is written in React.
 
