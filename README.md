@@ -7,7 +7,6 @@ I do programming and web development 👨‍💻 and web app development 👨‍
 
 My primary focus is programming in JavaScript (TS), Node.js and sometimes helping people with their PHP and WordPress. Most of the apps I wrote is written in React.
 
-I am working at [Spectoda](https://spectoda.com) to make lights interactive and easily controllable.
 Let's see what we build.
 
 [![SirLuky github stats](https://github-readme-stats.vercel.app/api?username=sirluky&count_private=true&show_icons=true)](https://github.com/sirluky)
