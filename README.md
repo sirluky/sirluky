@@ -2,9 +2,10 @@
 
 I'm [Lukáš Kovář](https://lukaskovar.com).
 
-I am a 23-year-old IT Guy 💻, currently pursuing a master's degree in Data Science at the University of Hradec Králové. I've been programming and developing web applications 👨‍💻 for over 5 years.
+I am a 24-year-old IT Guy 💻, currently pursuing a master's degree in Data Science at the University of Hradec Králové. I've been programming and developing web applications 👨‍💻 for over 6 years.
 
-My primary focus is on programming in JavaScript (TS) and Node.js.I also enjoy helping people with their PHP and WordPress needs. Most of the apps I've written are built using React. Currently, I mostly do contract development with long-term clients and companies.
+My primary focus is on programming in JavaScript (TS) and Node.js. Managing simple server infrastructure, CI pipelines. 
+Ocassionally enjoy helping people with their PHP and WordPress needs. Most of the apps I've written are built using React. Currently, I mostly do contract development with long-term clients and companies.
 
 Let's see what we build.
 
