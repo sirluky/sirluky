@@ -9,8 +9,6 @@ Ocassionally enjoy helping people with their PHP and WordPress needs. Most of th
 
 Let's see what we build.
 
-[![SirLuky github stats](https://github-readme-stats.vercel.app/api?username=sirluky&count_private=true&show_icons=true)](https://github.com/sirluky)
-
 ## 🛠️ Tech stack
 - Web: React, Vue.js
 - Backend: Node.js, PHP
