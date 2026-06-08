@@ -17,4 +17,4 @@ Let's see what we build.
 - Deployment: **Docker**, **Cloudflare**, Netlify, Vercel
 - API: REST, GraphQL, MCP
 - OS: Ubuntu (**Linux**), ex. Mac OS
-- Agents: PI agent, **Claude**, Codex, ex. GH Copilot (before pricing change)
+- Agents: PI agent, **Claude**, Codex, e.g., GitHub Copilot (before pricing change)
